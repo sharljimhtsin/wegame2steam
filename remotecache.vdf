@@ -1,0 +1,28 @@
+{
+	"ChangeNumber"		"-1748370528943776013"
+	"ostype"		"14"
+	"00.SAV"
+	{
+		"root"		"0"
+		"size"		"12188"
+		"localtime"		"1653056664"
+		"time"		"1653056663"
+		"remotetime"		"1653056663"
+		"sha"		"9503312871c59b445f1b5511859f9ea08194a2d8"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"userdata.SAV"
+	{
+		"root"		"0"
+		"size"		"901"
+		"localtime"		"1653057023"
+		"time"		"1653057021"
+		"remotetime"		"1653057021"
+		"sha"		"e19a79b56cb88012ee78022d244d93e9362e25ae"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
