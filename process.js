@@ -14,7 +14,7 @@ const oldJsonObj = JSON.parse(oldJsonFile);
 let newChangeNumber = parseInt(oldJsonObj["ChangeNumber"]) + 1;
 oldJsonObj["ChangeNumber"] = newChangeNumber.toString();
 for (let fname of fs.readdirSync(dirName)) {
-    if (fname === "00.SAV") {
+    if (fname === "00.SAV" || fname === "userdata.SAV") {
         continue;
     }
     // console.log(fname);
